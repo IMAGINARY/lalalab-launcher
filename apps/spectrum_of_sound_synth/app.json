@@ -1,0 +1,9 @@
+{
+  "id": "spectrum_of_sound_synth",
+  "version": "",
+  "type": "remote",
+  "main": "lalalab-launcher",
+  "lalalabDemoHref": "https://imaginary.github.io/harmonics-explorer",
+  "name": "The Spectrum Of Sound - Synthesizer",
+  "description": {}
+}

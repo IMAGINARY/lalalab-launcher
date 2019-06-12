@@ -1,0 +1,9 @@
+{
+  "id": "pentatonic_scales",
+  "version": "",
+  "type": "remote",
+  "main": "lalalab-launcher",
+  "lalalabDemoHref": "https://raw.githack.com/CindyJS/PentatonicScales/master/index.html",
+  "name": "Pentatonic Scales",
+  "description": {}
+}

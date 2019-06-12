@@ -1,0 +1,9 @@
+{
+  "id": "beat_box",
+  "version": "",
+  "type": "remote",
+  "main": "lalalab-launcher",
+  "lalalabDemoHref": "http://science-to-touch.com/LaLaLab/lalalab-apps/applauncher2/?cfg=beatbox",
+  "name": "Beat Box",
+  "description": {}
+}

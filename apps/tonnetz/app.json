@@ -1,0 +1,9 @@
+{
+  "id": "tonnetz",
+  "version": "",
+  "type": "remote",
+  "main": "lalalab-launcher",
+  "lalalabDemoHref": "https://imaginary.github.io/web-hexachord/",
+  "name": "Tonnetz",
+  "description": {}
+}

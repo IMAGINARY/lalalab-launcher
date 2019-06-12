@@ -1,0 +1,7 @@
+{
+  "id":  "lalalab-launcher",
+  "version": "v1.0",
+  "scripts": [
+    "js/lalalab-launcher.js"
+  ]
+}

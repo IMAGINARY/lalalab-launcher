@@ -1,0 +1,9 @@
+{
+  "id": "ai_jam",
+  "version": "",
+  "type": "remote",
+  "main": "lalalab-launcher",
+  "lalalabDemoHref": "https://experiments.withgoogle.com/ai/ai-duet/view/",
+  "name": "AI Jam",
+  "description": {}
+}
