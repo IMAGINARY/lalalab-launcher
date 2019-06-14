@@ -56,6 +56,7 @@ apps:
   - ../apps/beat_box
   - ../apps/sound_of_sequences
   - ../apps/pentatonic_scales
+  - ../apps/note_compass
 #
 # App to load when the user clicks on the "info" button. Typically an
 # "about" or "credits" app.
