@@ -1,0 +1,9 @@
+{
+  "id": "note_compass",
+  "version": "",
+  "type": "remote",
+  "main": "lalalab-launcher",
+  "lalalabDemoHref": "https://raw.githack.com/danielramosg/note-compass/landscape/index.html",
+  "name": "Note Compass",
+  "description": {}
+}
