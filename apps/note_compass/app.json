@@ -3,7 +3,7 @@
   "version": "",
   "type": "remote",
   "main": "lalalab-launcher",
-  "lalalabDemoHref": "https://raw.githack.com/danielramosg/note-compass/landscape/index.html",
+  "lalalabDemoHref": "https://danielramosg.github.io/note-compass/",
   "name": "Note Compass",
   "description": {}
 }
