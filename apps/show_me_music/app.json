@@ -3,7 +3,7 @@
   "version": "",
   "type": "remote",
   "main": "lalalab-launcher",
-  "lalalabDemoHref": "http://science-to-touch.com/LaLaLab/lalalab-apps/applauncher2/?cfg=showmemusic",
+  "lalalabDemoHref": "https://cindyjs.github.io/lalalab-apps/applauncher2/?cfg=showmemusic#",
   "name": "Show Me Music",
   "description": {}
 }
